@@ -1,7 +1,5 @@
-## [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On 
+## [CVPR2024] StableVITON: Learning Semantic Correspondence with LDM for VITON 
 This repository is the official implementation of [StableVITON](https://arxiv.org/abs/2312.01725)
-
-**StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On**<br>
 
 [[arXiv Paper](https://arxiv.org/abs/2312.01725)]&nbsp;
 [[Project Page](https://rlawjdghek.github.io/StableVITON/)]&nbsp;
