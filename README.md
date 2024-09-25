@@ -1,13 +1,10 @@
-# [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On 
+## [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On 
 This repository is the official implementation of [StableVITON](https://arxiv.org/abs/2312.01725)
 
-> **StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On**<br>
-> [Jeongho Kim](https://scholar.google.co.kr/citations?user=4SCCBFwAAAAJ&hl=ko), [Gyojung Gu](https://www.linkedin.com/in/gyojung-gu-29033118b/), [Minho Park](https://pmh9960.github.io/), [Sunghyun Park](https://psh01087.github.io/), [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)
+**StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On**<br>
 
 [[arXiv Paper](https://arxiv.org/abs/2312.01725)]&nbsp;
 [[Project Page](https://rlawjdghek.github.io/StableVITON/)]&nbsp;
-
-![teaser](assets/teaser.png)&nbsp;
 
 ## TODO List
 - [x] ~~Inference code~~
@@ -36,6 +33,7 @@ pip install triton==2.0.0
 pip install open-clip-torch==2.19.0
 pip install diffusers==0.20.2
 pip install scipy==1.10.1
+pip install clean-fid
 conda install -c anaconda ipython -y
 ```
 
